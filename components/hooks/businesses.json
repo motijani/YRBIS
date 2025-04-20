@@ -1,0 +1,1886 @@
+[
+  {
+    "business_id": 3,
+    "acc_id": 0,
+    "address": NaN,
+    "datePosted": "2024-07-07T21:22:56.004Z",
+    "description": "\"I will deliver home cooked meals to your location, healthy and cheap\"",
+    "lastUpdated": "2024-07-07T21:28:03.660Z",
+    "location": "\"undefined,undefined\"",
+    "maxDistance": "10 Miles",
+    "pricing": "[{\"S\":\"Flexible\"},{\"S\":\"Strict\"}]",
+    "status": "Active",
+    "tags": "\"Home-cooked, Delivery, Healthy, Affordable, Flexible\"",
+    "title": "Peters Food"
+  },
+  {
+    "business_id": 2,
+    "acc_id": 0,
+    "address": NaN,
+    "datePosted": "2024-07-07T21:23:44.285Z",
+    "description": "\"Test fans for fun, hwlpnfix fan issues, help fix ac issues\"",
+    "lastUpdated": "2024-07-07T21:27:55.234Z",
+    "location": "\"undefined,undefined\"",
+    "maxDistance": "10 Miles",
+    "pricing": "[{\"S\":\"Hourly\"}]",
+    "status": "Active",
+    "tags": "\"fun, testing, fans, hourly, entertainment\"",
+    "title": "Fan Testing"
+  },
+  {
+    "business_id": 4,
+    "acc_id": 0,
+    "address": NaN,
+    "datePosted": "2024-07-07T21:28:12.337Z",
+    "description": "We clean shoes and we also sell shoes we have a plethora of selection",
+    "lastUpdated": "2024-07-07T21:33:03.687Z",
+    "location": "\"undefined,undefined\"",
+    "maxDistance": "10 Miles",
+    "pricing": "[{\"S\":\"Strict\"}]",
+    "status": "Deleted",
+    "tags": "\"cleaning, selling, selection, pricing, quality\"",
+    "title": "Good Shoes LLC"
+  },
+  {
+    "business_id": 1,
+    "acc_id": 0,
+    "address": "\"Jamaica, NY 11435, USA\"",
+    "datePosted": "2024-07-05T00:32:11.435Z",
+    "description": "teach kids gauss theorem at an elementary level",
+    "lastUpdated": "2024-12-25T05:09:39.399Z",
+    "location": "\"undefined,undefined\"",
+    "maxDistance": "10 Miles",
+    "pricing": "[{\"S\":\"Strict\"},{\"S\":\"Hourly\"}]",
+    "status": "Paused",
+    "tags": "\"math, education, elementary, theorem, pricing\"",
+    "title": "Gauss Elementary"
+  },
+  {
+    "business_id": 0,
+    "acc_id": 0,
+    "address": NaN,
+    "datePosted": "2024-06-30T17:06:03.345Z",
+    "description": "\"Top notch electeical servixe you need it and we are there abailability wveyday anytime, come on and try my electrical service\"",
+    "lastUpdated": "2024-07-07T22:13:12.978Z",
+    "location": "\"undefined,undefined\"",
+    "maxDistance": "25 Miles",
+    "pricing": "[{\"S\":\"Hourly\"}]",
+    "status": "Deleted",
+    "tags": "\"electrician, reliable, 24/7, experienced, affordable\"",
+    "title": "Llcs electric servic"
+  },
+  {
+    "business_id": 5,
+    "acc_id": 0,
+    "address": NaN,
+    "datePosted": "2024-07-06T22:56:30.727Z",
+    "description": "We clean shoes and we also sell shoes we have a plethora of selection",
+    "lastUpdated": "2024-07-07T20:46:05.317Z",
+    "location": "\"undefined,undefined\"",
+    "maxDistance": "10 Miles",
+    "pricing": "[{\"S\":\"Strict\"}]",
+    "status": "Deleted",
+    "tags": "\"cleaning, selling, selection, pricing, quality\"",
+    "title": "Good Shoes LLC"
+  },
+  {
+    "business_id": 6,
+    "acc_id": 84,
+    "address": "951 Elm St, City, State, 35734",
+    "datePosted": "2024-12-25T00:00:00Z",
+    "description": "Top-notch quality delivered with precision and care.",
+    "lastUpdated": "2024-12-25T00:00:00Z",
+    "location": "89.337502,59.748146",
+    "maxDistance": "50 Miles",
+    "pricing": [
+      {
+        "S": "Hourly"
+      }
+    ],
+    "status": "Active",
+    "tags": ["Consulting", "Retail", "Technology"],
+    "title": "Care Plus"
+  },
+  {
+    "business_id": 7,
+    "acc_id": 3,
+    "address": "757 Broadway, City, State, 69774",
+    "datePosted": "2024-12-25T00:00:00Z",
+    "description": "Affordable and reliable services available near you.",
+    "lastUpdated": "2024-12-25T00:00:00Z",
+    "location": "-1.343321,-66.324548",
+    "maxDistance": "50 Miles",
+    "pricing": [
+      {
+        "S": "Flexible"
+      }
+    ],
+    "status": "Deleted",
+    "tags": ["Technology", "Healthcare", "Repair"],
+    "title": "Care Plus"
+  },
+  {
+    "business_id": 8,
+    "acc_id": 11,
+    "address": "436 Broadway, City, State, 96554",
+    "datePosted": "2024-12-25T00:00:00Z",
+    "description": "Innovative solutions for modern-day challenges.",
+    "lastUpdated": "2024-12-25T00:00:00Z",
+    "location": "77.984785,-151.666610",
+    "maxDistance": "25 Miles",
+    "pricing": [
+      {
+        "S": "Flexible"
+      }
+    ],
+    "status": "Active",
+    "tags": ["Food", "Retail", "Cleaning"],
+    "title": "Quick Retail"
+  },
+  {
+    "business_id": 9,
+    "acc_id": 97,
+    "address": "815 Elm St, City, State, 44942",
+    "datePosted": "2024-12-25T00:00:00Z",
+    "description": "We provide excellent services tailored to your needs.",
+    "lastUpdated": "2024-12-25T00:00:00Z",
+    "location": "-76.302740,-1.443199",
+    "maxDistance": "50 Miles",
+    "pricing": [
+      {
+        "S": "Hourly"
+      }
+    ],
+    "status": "Active",
+    "tags": ["Technology", "Repair", "Cleaning"],
+    "title": "Fit Life"
+  },
+  {
+    "business_id": 10,
+    "acc_id": 67,
+    "address": "697 Elm St, City, State, 66892",
+    "datePosted": "2024-12-25T00:00:00Z",
+    "description": "We provide excellent services tailored to your needs.",
+    "lastUpdated": "2024-12-25T00:00:00Z",
+    "location": "21.118332,17.687844",
+    "maxDistance": "25 Miles",
+    "pricing": [
+      {
+        "S": "Strict"
+      }
+    ],
+    "status": "Paused",
+    "tags": ["Cleaning", "Food", "Education"],
+    "title": "Sparkle Cleaners"
+  },
+  {
+    "business_id": 11,
+    "acc_id": 25,
+    "address": "679 Main St, City, State, 67006",
+    "datePosted": "2024-12-25T00:00:00Z",
+    "description": "Your satisfaction is our priority. Contact us for more details.",
+    "lastUpdated": "2024-12-25T00:00:00Z",
+    "location": "87.289418,178.910739",
+    "maxDistance": "50 Miles",
+    "pricing": [
+      {
+        "S": "Hourly"
+      }
+    ],
+    "status": "Active",
+    "tags": ["Entertainment", "Education", "Retail"],
+    "title": "Tech Fix"
+  },
+  {
+    "business_id": 12,
+    "acc_id": 13,
+    "address": "678 Elm St, City, State, 62379",
+    "datePosted": "2024-12-25T00:00:00Z",
+    "description": "We provide excellent services tailored to your needs.",
+    "lastUpdated": "2024-12-25T00:00:00Z",
+    "location": "67.304777,-148.698020",
+    "maxDistance": "50 Miles",
+    "pricing": [
+      {
+        "S": "Hourly"
+      }
+    ],
+    "status": "Paused",
+    "tags": ["Entertainment", "Repair", "Food"],
+    "title": "Care Plus"
+  },
+  {
+    "business_id": 13,
+    "acc_id": 25,
+    "address": "106 Main St, City, State, 17339",
+    "datePosted": "2024-12-25T00:00:00Z",
+    "description": "Top-notch quality delivered with precision and care.",
+    "lastUpdated": "2024-12-25T00:00:00Z",
+    "location": "-10.779499,129.719298",
+    "maxDistance": "50 Miles",
+    "pricing": [
+      {
+        "S": "Hourly"
+      }
+    ],
+    "status": "Active",
+    "tags": ["Technology", "Cleaning", "Retail"],
+    "title": "Sparkle Cleaners"
+  },
+  {
+    "business_id": 14,
+    "acc_id": 40,
+    "address": "844 Main St, City, State, 75150",
+    "datePosted": "2024-12-25T00:00:00Z",
+    "description": "We provide excellent services tailored to your needs.",
+    "lastUpdated": "2024-12-25T00:00:00Z",
+    "location": "-39.572569,37.364831",
+    "maxDistance": "10 Miles",
+    "pricing": [
+      {
+        "S": "Flexible"
+      }
+    ],
+    "status": "Paused",
+    "tags": ["Food", "Entertainment", "Healthcare"],
+    "title": "Quick Retail"
+  },
+  {
+    "business_id": 15,
+    "acc_id": 71,
+    "address": "346 Elm St, City, State, 79877",
+    "datePosted": "2024-12-25T00:00:00Z",
+    "description": "Top-notch quality delivered with precision and care.",
+    "lastUpdated": "2024-12-25T00:00:00Z",
+    "location": "-54.012897,105.807660",
+    "maxDistance": "25 Miles",
+    "pricing": [
+      {
+        "S": "Flexible"
+      }
+    ],
+    "status": "Active",
+    "tags": ["Repair", "Food", "Healthcare"],
+    "title": "Tech Fix"
+  },
+  {
+    "business_id": 16,
+    "acc_id": 79,
+    "address": "858 Broadway, City, State, 42574",
+    "datePosted": "2024-12-25T00:00:00Z",
+    "description": "Innovative solutions for modern-day challenges.",
+    "lastUpdated": "2024-12-25T00:00:00Z",
+    "location": "37.563382,168.110080",
+    "maxDistance": "10 Miles",
+    "pricing": [
+      {
+        "S": "Flexible"
+      }
+    ],
+    "status": "Active",
+    "tags": ["Retail", "Entertainment", "Healthcare"],
+    "title": "Care Plus"
+  },
+  {
+    "business_id": 17,
+    "acc_id": 49,
+    "address": "240 Main St, City, State, 20615",
+    "datePosted": "2024-12-25T00:00:00Z",
+    "description": "Affordable and reliable services available near you.",
+    "lastUpdated": "2024-12-25T00:00:00Z",
+    "location": "-72.475882,-146.952233",
+    "maxDistance": "50 Miles",
+    "pricing": [
+      {
+        "S": "Flexible"
+      }
+    ],
+    "status": "Active",
+    "tags": ["Technology", "Healthcare", "Food"],
+    "title": "Expert Consulting"
+  },
+  {
+    "business_id": 18,
+    "acc_id": 18,
+    "address": "843 Main St, City, State, 48300",
+    "datePosted": "2024-12-25T00:00:00Z",
+    "description": "Affordable and reliable services available near you.",
+    "lastUpdated": "2024-12-25T00:00:00Z",
+    "location": "27.151345,-79.317470",
+    "maxDistance": "10 Miles",
+    "pricing": [
+      {
+        "S": "Strict"
+      }
+    ],
+    "status": "Deleted",
+    "tags": ["Food", "Retail", "Entertainment"],
+    "title": "Gourmet Bites"
+  },
+  {
+    "business_id": 19,
+    "acc_id": 64,
+    "address": "390 Main St, City, State, 32295",
+    "datePosted": "2024-12-25T00:00:00Z",
+    "description": "We provide excellent services tailored to your needs.",
+    "lastUpdated": "2024-12-25T00:00:00Z",
+    "location": "-84.403992,-156.787131",
+    "maxDistance": "50 Miles",
+    "pricing": [
+      {
+        "S": "Flexible"
+      }
+    ],
+    "status": "Paused",
+    "tags": ["Retail", "Healthcare", "Cleaning"],
+    "title": "Expert Consulting"
+  },
+  {
+    "business_id": 20,
+    "acc_id": 18,
+    "address": "649 Broadway, City, State, 14230",
+    "datePosted": "2024-12-25T00:00:00Z",
+    "description": "Innovative solutions for modern-day challenges.",
+    "lastUpdated": "2024-12-25T00:00:00Z",
+    "location": "82.380374,155.672982",
+    "maxDistance": "10 Miles",
+    "pricing": [
+      {
+        "S": "Strict"
+      }
+    ],
+    "status": "Deleted",
+    "tags": ["Consulting", "Repair", "Entertainment"],
+    "title": "Tech Fix"
+  },
+  {
+    "business_id": 21,
+    "acc_id": 95,
+    "address": "244 Main St, City, State, 67664",
+    "datePosted": "2024-12-25T00:00:00Z",
+    "description": "Top-notch quality delivered with precision and care.",
+    "lastUpdated": "2024-12-25T00:00:00Z",
+    "location": "-86.374122,-117.822397",
+    "maxDistance": "25 Miles",
+    "pricing": [
+      {
+        "S": "Flexible"
+      }
+    ],
+    "status": "Paused",
+    "tags": ["Retail", "Repair", "Entertainment"],
+    "title": "Tech Fix"
+  },
+  {
+    "business_id": 22,
+    "acc_id": 73,
+    "address": "644 Main St, City, State, 70916",
+    "datePosted": "2024-12-25T00:00:00Z",
+    "description": "Affordable and reliable services available near you.",
+    "lastUpdated": "2024-12-25T00:00:00Z",
+    "location": "-80.097341,167.986491",
+    "maxDistance": "10 Miles",
+    "pricing": [
+      {
+        "S": "Flexible"
+      }
+    ],
+    "status": "Active",
+    "tags": ["Food", "Retail", "Entertainment"],
+    "title": "Tech Fix"
+  },
+  {
+    "business_id": 23,
+    "acc_id": 62,
+    "address": "206 Broadway, City, State, 25718",
+    "datePosted": "2024-12-25T00:00:00Z",
+    "description": "Innovative solutions for modern-day challenges.",
+    "lastUpdated": "2024-12-25T00:00:00Z",
+    "location": "35.707983,-151.453709",
+    "maxDistance": "50 Miles",
+    "pricing": [
+      {
+        "S": "Strict"
+      }
+    ],
+    "status": "Paused",
+    "tags": ["Cleaning", "Repair", "Retail"],
+    "title": "Fit Life"
+  },
+  {
+    "business_id": 24,
+    "acc_id": 46,
+    "address": "853 Main St, City, State, 52384",
+    "datePosted": "2024-12-25T00:00:00Z",
+    "description": "We provide excellent services tailored to your needs.",
+    "lastUpdated": "2024-12-25T00:00:00Z",
+    "location": "78.970118,117.308531",
+    "maxDistance": "10 Miles",
+    "pricing": [
+      {
+        "S": "Flexible"
+      }
+    ],
+    "status": "Active",
+    "tags": ["Fitness", "Entertainment", "Retail"],
+    "title": "Fun Zone"
+  },
+  {
+    "business_id": 25,
+    "acc_id": 16,
+    "address": "188 Elm St, City, State, 74803",
+    "datePosted": "2024-12-25T00:00:00Z",
+    "description": "Your satisfaction is our priority. Contact us for more details.",
+    "lastUpdated": "2024-12-25T00:00:00Z",
+    "location": "4.781958,-10.156703",
+    "maxDistance": "50 Miles",
+    "pricing": [
+      {
+        "S": "Hourly"
+      }
+    ],
+    "status": "Active",
+    "tags": ["Fitness", "Healthcare", "Education"],
+    "title": "Sparkle Cleaners"
+  },
+  {
+    "business_id": 26,
+    "acc_id": 20,
+    "address": "740 Park Ave, City, State, 34434",
+    "datePosted": "2024-12-25T00:00:00Z",
+    "description": "We provide excellent services tailored to your needs.",
+    "lastUpdated": "2024-12-25T00:00:00Z",
+    "location": "-77.900937,-24.231534",
+    "maxDistance": "10 Miles",
+    "pricing": [
+      {
+        "S": "Hourly"
+      }
+    ],
+    "status": "Deleted",
+    "tags": ["Entertainment", "Food", "Repair"],
+    "title": "Gourmet Bites"
+  },
+  {
+    "business_id": 27,
+    "acc_id": 74,
+    "address": "682 Elm St, City, State, 98966",
+    "datePosted": "2024-12-25T00:00:00Z",
+    "description": "Top-notch quality delivered with precision and care.",
+    "lastUpdated": "2024-12-25T00:00:00Z",
+    "location": "13.265380,-36.143714",
+    "maxDistance": "25 Miles",
+    "pricing": [
+      {
+        "S": "Flexible"
+      }
+    ],
+    "status": "Active",
+    "tags": ["Retail", "Entertainment", "Consulting"],
+    "title": "Tech Fix"
+  },
+  {
+    "business_id": 28,
+    "acc_id": 91,
+    "address": "547 Broadway, City, State, 50329",
+    "datePosted": "2024-12-25T00:00:00Z",
+    "description": "Affordable and reliable services available near you.",
+    "lastUpdated": "2024-12-25T00:00:00Z",
+    "location": "28.999914,90.688910",
+    "maxDistance": "25 Miles",
+    "pricing": [
+      {
+        "S": "Hourly"
+      }
+    ],
+    "status": "Paused",
+    "tags": ["Cleaning", "Repair", "Fitness"],
+    "title": "Tech Fix"
+  },
+  {
+    "business_id": 29,
+    "acc_id": 24,
+    "address": "462 Broadway, City, State, 14211",
+    "datePosted": "2024-12-25T00:00:00Z",
+    "description": "Your satisfaction is our priority. Contact us for more details.",
+    "lastUpdated": "2024-12-25T00:00:00Z",
+    "location": "34.936736,-142.906271",
+    "maxDistance": "25 Miles",
+    "pricing": [
+      {
+        "S": "Strict"
+      }
+    ],
+    "status": "Paused",
+    "tags": ["Healthcare", "Consulting", "Education"],
+    "title": "Sparkle Cleaners"
+  },
+  {
+    "business_id": 30,
+    "acc_id": 15,
+    "address": "390 Main St, City, State, 71272",
+    "datePosted": "2024-12-25T00:00:00Z",
+    "description": "Affordable and reliable services available near you.",
+    "lastUpdated": "2024-12-25T00:00:00Z",
+    "location": "31.665645,96.230018",
+    "maxDistance": "25 Miles",
+    "pricing": [
+      {
+        "S": "Flexible"
+      }
+    ],
+    "status": "Active",
+    "tags": ["Education", "Food", "Entertainment"],
+    "title": "Gourmet Bites"
+  },
+  {
+    "business_id": 31,
+    "acc_id": 57,
+    "address": "952 Elm St, City, State, 87868",
+    "datePosted": "2024-12-25T00:00:00Z",
+    "description": "We provide excellent services tailored to your needs.",
+    "lastUpdated": "2024-12-25T00:00:00Z",
+    "location": "-11.570902,-127.816769",
+    "maxDistance": "25 Miles",
+    "pricing": [
+      {
+        "S": "Flexible"
+      }
+    ],
+    "status": "Active",
+    "tags": ["Education", "Retail", "Food"],
+    "title": "Fun Zone"
+  },
+  {
+    "business_id": 32,
+    "acc_id": 26,
+    "address": "669 Broadway, City, State, 89158",
+    "datePosted": "2024-12-25T00:00:00Z",
+    "description": "Affordable and reliable services available near you.",
+    "lastUpdated": "2024-12-25T00:00:00Z",
+    "location": "-80.018368,25.544662",
+    "maxDistance": "10 Miles",
+    "pricing": [
+      {
+        "S": "Hourly"
+      }
+    ],
+    "status": "Active",
+    "tags": ["Food", "Entertainment", "Education"],
+    "title": "Healthy Living"
+  },
+  {
+    "business_id": 33,
+    "acc_id": 16,
+    "address": "666 Main St, City, State, 30091",
+    "datePosted": "2024-12-25T00:00:00Z",
+    "description": "Top-notch quality delivered with precision and care.",
+    "lastUpdated": "2024-12-25T00:00:00Z",
+    "location": "52.049617,-150.823339",
+    "maxDistance": "25 Miles",
+    "pricing": [
+      {
+        "S": "Flexible"
+      }
+    ],
+    "status": "Active",
+    "tags": ["Education", "Consulting", "Fitness"],
+    "title": "Care Plus"
+  },
+  {
+    "business_id": 34,
+    "acc_id": 91,
+    "address": "31 Broadway, City, State, 65426",
+    "datePosted": "2024-12-25T00:00:00Z",
+    "description": "We provide excellent services tailored to your needs.",
+    "lastUpdated": "2024-12-25T00:00:00Z",
+    "location": "-63.058386,-129.430798",
+    "maxDistance": "50 Miles",
+    "pricing": [
+      {
+        "S": "Strict"
+      }
+    ],
+    "status": "Deleted",
+    "tags": ["Retail", "Education", "Consulting"],
+    "title": "Fit Life"
+  },
+  {
+    "business_id": 35,
+    "acc_id": 18,
+    "address": "769 Park Ave, City, State, 55394",
+    "datePosted": "2024-12-25T00:00:00Z",
+    "description": "Top-notch quality delivered with precision and care.",
+    "lastUpdated": "2024-12-25T00:00:00Z",
+    "location": "60.560967,-158.167277",
+    "maxDistance": "50 Miles",
+    "pricing": [
+      {
+        "S": "Strict"
+      }
+    ],
+    "status": "Paused",
+    "tags": ["Repair", "Healthcare", "Retail"],
+    "title": "Fit Life"
+  },
+  {
+    "business_id": 36,
+    "acc_id": 86,
+    "address": "674 Broadway, City, State, 63985",
+    "datePosted": "2024-12-25T00:00:00Z",
+    "description": "Affordable and reliable services available near you.",
+    "lastUpdated": "2024-12-25T00:00:00Z",
+    "location": "-19.773916,151.373949",
+    "maxDistance": "25 Miles",
+    "pricing": [
+      {
+        "S": "Flexible"
+      }
+    ],
+    "status": "Paused",
+    "tags": ["Technology", "Education", "Cleaning"],
+    "title": "Expert Consulting"
+  },
+  {
+    "business_id": 37,
+    "acc_id": 39,
+    "address": "940 Elm St, City, State, 96058",
+    "datePosted": "2024-12-25T00:00:00Z",
+    "description": "Your satisfaction is our priority. Contact us for more details.",
+    "lastUpdated": "2024-12-25T00:00:00Z",
+    "location": "72.802917,62.122197",
+    "maxDistance": "10 Miles",
+    "pricing": [
+      {
+        "S": "Hourly"
+      }
+    ],
+    "status": "Active",
+    "tags": ["Consulting", "Retail", "Technology"],
+    "title": "Fit Life"
+  },
+  {
+    "business_id": 38,
+    "acc_id": 35,
+    "address": "870 Main St, City, State, 56574",
+    "datePosted": "2024-12-25T00:00:00Z",
+    "description": "Your satisfaction is our priority. Contact us for more details.",
+    "lastUpdated": "2024-12-25T00:00:00Z",
+    "location": "-57.594188,115.603633",
+    "maxDistance": "50 Miles",
+    "pricing": [
+      {
+        "S": "Hourly"
+      }
+    ],
+    "status": "Paused",
+    "tags": ["Entertainment", "Consulting", "Fitness"],
+    "title": "Gourmet Bites"
+  },
+  {
+    "business_id": 39,
+    "acc_id": 88,
+    "address": "342 Main St, City, State, 58197",
+    "datePosted": "2024-12-25T00:00:00Z",
+    "description": "Affordable and reliable services available near you.",
+    "lastUpdated": "2024-12-25T00:00:00Z",
+    "location": "58.031845,9.888742",
+    "maxDistance": "10 Miles",
+    "pricing": [
+      {
+        "S": "Flexible"
+      }
+    ],
+    "status": "Deleted",
+    "tags": ["Consulting", "Education", "Cleaning"],
+    "title": "Gourmet Bites"
+  },
+  {
+    "business_id": 40,
+    "acc_id": 48,
+    "address": "541 Elm St, City, State, 93969",
+    "datePosted": "2024-12-25T00:00:00Z",
+    "description": "We provide excellent services tailored to your needs.",
+    "lastUpdated": "2024-12-25T00:00:00Z",
+    "location": "-2.773482,-8.564581",
+    "maxDistance": "10 Miles",
+    "pricing": [
+      {
+        "S": "Flexible"
+      }
+    ],
+    "status": "Deleted",
+    "tags": ["Entertainment", "Fitness", "Repair"],
+    "title": "Smart Tutors"
+  },
+  {
+    "business_id": 41,
+    "acc_id": 83,
+    "address": "645 Elm St, City, State, 55970",
+    "datePosted": "2024-12-25T00:00:00Z",
+    "description": "Top-notch quality delivered with precision and care.",
+    "lastUpdated": "2024-12-25T00:00:00Z",
+    "location": "13.077187,-4.306506",
+    "maxDistance": "50 Miles",
+    "pricing": [
+      {
+        "S": "Hourly"
+      }
+    ],
+    "status": "Active",
+    "tags": ["Retail", "Healthcare", "Repair"],
+    "title": "Healthy Living"
+  },
+  {
+    "business_id": 42,
+    "acc_id": 5,
+    "address": "856 Elm St, City, State, 79256",
+    "datePosted": "2024-12-25T00:00:00Z",
+    "description": "Innovative solutions for modern-day challenges.",
+    "lastUpdated": "2024-12-25T00:00:00Z",
+    "location": "31.168840,-86.717952",
+    "maxDistance": "25 Miles",
+    "pricing": [
+      {
+        "S": "Strict"
+      }
+    ],
+    "status": "Paused",
+    "tags": ["Retail", "Healthcare", "Cleaning"],
+    "title": "Care Plus"
+  },
+  {
+    "business_id": 43,
+    "acc_id": 69,
+    "address": "625 Broadway, City, State, 63274",
+    "datePosted": "2024-12-25T00:00:00Z",
+    "description": "We provide excellent services tailored to your needs.",
+    "lastUpdated": "2024-12-25T00:00:00Z",
+    "location": "-67.894519,-110.369452",
+    "maxDistance": "50 Miles",
+    "pricing": [
+      {
+        "S": "Flexible"
+      }
+    ],
+    "status": "Paused",
+    "tags": ["Food", "Repair", "Fitness"],
+    "title": "Expert Consulting"
+  },
+  {
+    "business_id": 44,
+    "acc_id": 15,
+    "address": "466 Main St, City, State, 24243",
+    "datePosted": "2024-12-25T00:00:00Z",
+    "description": "Top-notch quality delivered with precision and care.",
+    "lastUpdated": "2024-12-25T00:00:00Z",
+    "location": "40.749167,19.138027",
+    "maxDistance": "10 Miles",
+    "pricing": [
+      {
+        "S": "Strict"
+      }
+    ],
+    "status": "Paused",
+    "tags": ["Entertainment", "Healthcare", "Fitness"],
+    "title": "Sparkle Cleaners"
+  },
+  {
+    "business_id": 45,
+    "acc_id": 95,
+    "address": "511 Elm St, City, State, 95980",
+    "datePosted": "2024-12-25T00:00:00Z",
+    "description": "Affordable and reliable services available near you.",
+    "lastUpdated": "2024-12-25T00:00:00Z",
+    "location": "15.575876,109.314369",
+    "maxDistance": "10 Miles",
+    "pricing": [
+      {
+        "S": "Hourly"
+      }
+    ],
+    "status": "Deleted",
+    "tags": ["Cleaning", "Repair", "Technology"],
+    "title": "Care Plus"
+  },
+  {
+    "business_id": 46,
+    "acc_id": 1,
+    "address": "740 Broadway, City, State, 46504",
+    "datePosted": "2024-12-25T00:00:00Z",
+    "description": "Top-notch quality delivered with precision and care.",
+    "lastUpdated": "2024-12-25T00:00:00Z",
+    "location": "56.623244,154.437113",
+    "maxDistance": "10 Miles",
+    "pricing": [
+      {
+        "S": "Flexible"
+      }
+    ],
+    "status": "Paused",
+    "tags": ["Technology", "Healthcare", "Education"],
+    "title": "Sparkle Cleaners"
+  },
+  {
+    "business_id": 47,
+    "acc_id": 15,
+    "address": "127 Broadway, City, State, 61497",
+    "datePosted": "2024-12-25T00:00:00Z",
+    "description": "Top-notch quality delivered with precision and care.",
+    "lastUpdated": "2024-12-25T00:00:00Z",
+    "location": "43.644302,33.056506",
+    "maxDistance": "50 Miles",
+    "pricing": [
+      {
+        "S": "Strict"
+      }
+    ],
+    "status": "Paused",
+    "tags": ["Healthcare", "Consulting", "Education"],
+    "title": "Sparkle Cleaners"
+  },
+  {
+    "business_id": 48,
+    "acc_id": 43,
+    "address": "378 Elm St, City, State, 96441",
+    "datePosted": "2024-12-25T00:00:00Z",
+    "description": "Top-notch quality delivered with precision and care.",
+    "lastUpdated": "2024-12-25T00:00:00Z",
+    "location": "-60.855081,-97.482630",
+    "maxDistance": "25 Miles",
+    "pricing": [
+      {
+        "S": "Hourly"
+      }
+    ],
+    "status": "Active",
+    "tags": ["Repair", "Retail", "Healthcare"],
+    "title": "Sparkle Cleaners"
+  },
+  {
+    "business_id": 49,
+    "acc_id": 68,
+    "address": "511 Main St, City, State, 18571",
+    "datePosted": "2024-12-25T00:00:00Z",
+    "description": "Affordable and reliable services available near you.",
+    "lastUpdated": "2024-12-25T00:00:00Z",
+    "location": "88.886506,173.043514",
+    "maxDistance": "25 Miles",
+    "pricing": [
+      {
+        "S": "Flexible"
+      }
+    ],
+    "status": "Active",
+    "tags": ["Education", "Technology", "Food"],
+    "title": "Quick Retail"
+  },
+  {
+    "business_id": 50,
+    "acc_id": 67,
+    "address": "106 Main St, City, State, 70553",
+    "datePosted": "2024-12-25T00:00:00Z",
+    "description": "Your satisfaction is our priority. Contact us for more details.",
+    "lastUpdated": "2024-12-25T00:00:00Z",
+    "location": "15.993467,-158.357936",
+    "maxDistance": "10 Miles",
+    "pricing": [
+      {
+        "S": "Hourly"
+      }
+    ],
+    "status": "Paused",
+    "tags": ["Repair", "Entertainment", "Consulting"],
+    "title": "Care Plus"
+  },
+  {
+    "business_id": 51,
+    "acc_id": 1,
+    "address": "788 Park Ave, City, State, 90540",
+    "datePosted": "2024-12-25T00:00:00Z",
+    "description": "Innovative solutions for modern-day challenges.",
+    "lastUpdated": "2024-12-25T00:00:00Z",
+    "location": "69.800847,80.360899",
+    "maxDistance": "50 Miles",
+    "pricing": [
+      {
+        "S": "Hourly"
+      }
+    ],
+    "status": "Paused",
+    "tags": ["Food", "Education", "Entertainment"],
+    "title": "Fun Zone"
+  },
+  {
+    "business_id": 52,
+    "acc_id": 97,
+    "address": "983 Park Ave, City, State, 90180",
+    "datePosted": "2024-12-25T00:00:00Z",
+    "description": "Innovative solutions for modern-day challenges.",
+    "lastUpdated": "2024-12-25T00:00:00Z",
+    "location": "68.434716,86.474286",
+    "maxDistance": "50 Miles",
+    "pricing": [
+      {
+        "S": "Strict"
+      }
+    ],
+    "status": "Paused",
+    "tags": ["Consulting", "Entertainment", "Technology"],
+    "title": "Sparkle Cleaners"
+  },
+  {
+    "business_id": 53,
+    "acc_id": 19,
+    "address": "260 Park Ave, City, State, 73057",
+    "datePosted": "2024-12-25T00:00:00Z",
+    "description": "Your satisfaction is our priority. Contact us for more details.",
+    "lastUpdated": "2024-12-25T00:00:00Z",
+    "location": "-55.539032,-83.619839",
+    "maxDistance": "50 Miles",
+    "pricing": [
+      {
+        "S": "Hourly"
+      }
+    ],
+    "status": "Paused",
+    "tags": ["Cleaning", "Consulting", "Fitness"],
+    "title": "Fit Life"
+  },
+  {
+    "business_id": 54,
+    "acc_id": 4,
+    "address": "637 Main St, City, State, 19137",
+    "datePosted": "2024-12-25T00:00:00Z",
+    "description": "Affordable and reliable services available near you.",
+    "lastUpdated": "2024-12-25T00:00:00Z",
+    "location": "28.240045,7.824867",
+    "maxDistance": "50 Miles",
+    "pricing": [
+      {
+        "S": "Hourly"
+      }
+    ],
+    "status": "Active",
+    "tags": ["Repair", "Consulting", "Retail"],
+    "title": "Fun Zone"
+  },
+  {
+    "business_id": 55,
+    "acc_id": 65,
+    "address": "812 Main St, City, State, 70185",
+    "datePosted": "2024-12-25T00:00:00Z",
+    "description": "Your satisfaction is our priority. Contact us for more details.",
+    "lastUpdated": "2024-12-25T00:00:00Z",
+    "location": "30.504916,-92.058765",
+    "maxDistance": "50 Miles",
+    "pricing": [
+      {
+        "S": "Strict"
+      }
+    ],
+    "status": "Paused",
+    "tags": ["Consulting", "Healthcare", "Repair"],
+    "title": "Sparkle Cleaners"
+  },
+  {
+    "business_id": 56,
+    "acc_id": 57,
+    "address": "493 Main St, City, State, 54307",
+    "datePosted": "2024-12-25T00:00:00Z",
+    "description": "We provide excellent services tailored to your needs.",
+    "lastUpdated": "2024-12-25T00:00:00Z",
+    "location": "9.840970,-127.293751",
+    "maxDistance": "10 Miles",
+    "pricing": [
+      {
+        "S": "Hourly"
+      }
+    ],
+    "status": "Active",
+    "tags": ["Fitness", "Consulting", "Food"],
+    "title": "Quick Retail"
+  },
+  {
+    "business_id": 57,
+    "acc_id": 77,
+    "address": "482 Elm St, City, State, 44348",
+    "datePosted": "2024-12-25T00:00:00Z",
+    "description": "Affordable and reliable services available near you.",
+    "lastUpdated": "2024-12-25T00:00:00Z",
+    "location": "-0.720127,41.954293",
+    "maxDistance": "50 Miles",
+    "pricing": [
+      {
+        "S": "Flexible"
+      }
+    ],
+    "status": "Active",
+    "tags": ["Repair", "Cleaning", "Food"],
+    "title": "Smart Tutors"
+  },
+  {
+    "business_id": 58,
+    "acc_id": 57,
+    "address": "909 Park Ave, City, State, 59892",
+    "datePosted": "2024-12-25T00:00:00Z",
+    "description": "Top-notch quality delivered with precision and care.",
+    "lastUpdated": "2024-12-25T00:00:00Z",
+    "location": "45.653964,83.969063",
+    "maxDistance": "25 Miles",
+    "pricing": [
+      {
+        "S": "Strict"
+      }
+    ],
+    "status": "Paused",
+    "tags": ["Repair", "Healthcare", "Consulting"],
+    "title": "Care Plus"
+  },
+  {
+    "business_id": 59,
+    "acc_id": 57,
+    "address": "778 Broadway, City, State, 43273",
+    "datePosted": "2024-12-25T00:00:00Z",
+    "description": "Top-notch quality delivered with precision and care.",
+    "lastUpdated": "2024-12-25T00:00:00Z",
+    "location": "51.126294,-43.799075",
+    "maxDistance": "50 Miles",
+    "pricing": [
+      {
+        "S": "Strict"
+      }
+    ],
+    "status": "Active",
+    "tags": ["Technology", "Consulting", "Food"],
+    "title": "Gourmet Bites"
+  },
+  {
+    "business_id": 60,
+    "acc_id": 69,
+    "address": "289 Park Ave, City, State, 59297",
+    "datePosted": "2024-12-25T00:00:00Z",
+    "description": "Innovative solutions for modern-day challenges.",
+    "lastUpdated": "2024-12-25T00:00:00Z",
+    "location": "-27.382556,-52.486192",
+    "maxDistance": "50 Miles",
+    "pricing": [
+      {
+        "S": "Strict"
+      }
+    ],
+    "status": "Active",
+    "tags": ["Entertainment", "Consulting", "Retail"],
+    "title": "Gourmet Bites"
+  },
+  {
+    "business_id": 61,
+    "acc_id": 64,
+    "address": "481 Park Ave, City, State, 37571",
+    "datePosted": "2024-12-25T00:00:00Z",
+    "description": "Your satisfaction is our priority. Contact us for more details.",
+    "lastUpdated": "2024-12-25T00:00:00Z",
+    "location": "30.926084,-86.574977",
+    "maxDistance": "25 Miles",
+    "pricing": [
+      {
+        "S": "Strict"
+      }
+    ],
+    "status": "Paused",
+    "tags": ["Education", "Retail", "Fitness"],
+    "title": "Expert Consulting"
+  },
+  {
+    "business_id": 62,
+    "acc_id": 41,
+    "address": "168 Main St, City, State, 51971",
+    "datePosted": "2024-12-25T00:00:00Z",
+    "description": "Top-notch quality delivered with precision and care.",
+    "lastUpdated": "2024-12-25T00:00:00Z",
+    "location": "-63.076505,126.981878",
+    "maxDistance": "25 Miles",
+    "pricing": [
+      {
+        "S": "Strict"
+      }
+    ],
+    "status": "Active",
+    "tags": ["Healthcare", "Consulting", "Technology"],
+    "title": "Expert Consulting"
+  },
+  {
+    "business_id": 63,
+    "acc_id": 23,
+    "address": "707 Main St, City, State, 40471",
+    "datePosted": "2024-12-25T00:00:00Z",
+    "description": "Affordable and reliable services available near you.",
+    "lastUpdated": "2024-12-25T00:00:00Z",
+    "location": "-60.061471,177.923138",
+    "maxDistance": "50 Miles",
+    "pricing": [
+      {
+        "S": "Strict"
+      }
+    ],
+    "status": "Paused",
+    "tags": ["Healthcare", "Education", "Cleaning"],
+    "title": "Sparkle Cleaners"
+  },
+  {
+    "business_id": 64,
+    "acc_id": 75,
+    "address": "95 Elm St, City, State, 87275",
+    "datePosted": "2024-12-25T00:00:00Z",
+    "description": "Top-notch quality delivered with precision and care.",
+    "lastUpdated": "2024-12-25T00:00:00Z",
+    "location": "-83.516714,-150.833896",
+    "maxDistance": "10 Miles",
+    "pricing": [
+      {
+        "S": "Flexible"
+      }
+    ],
+    "status": "Paused",
+    "tags": ["Cleaning", "Consulting", "Retail"],
+    "title": "Quick Retail"
+  },
+  {
+    "business_id": 65,
+    "acc_id": 13,
+    "address": "656 Broadway, City, State, 10384",
+    "datePosted": "2024-12-25T00:00:00Z",
+    "description": "Innovative solutions for modern-day challenges.",
+    "lastUpdated": "2024-12-25T00:00:00Z",
+    "location": "34.649692,53.747820",
+    "maxDistance": "25 Miles",
+    "pricing": [
+      {
+        "S": "Flexible"
+      }
+    ],
+    "status": "Active",
+    "tags": ["Fitness", "Education", "Food"],
+    "title": "Fun Zone"
+  },
+  {
+    "business_id": 66,
+    "acc_id": 40,
+    "address": "447 Broadway, City, State, 61106",
+    "datePosted": "2024-12-25T00:00:00Z",
+    "description": "Innovative solutions for modern-day challenges.",
+    "lastUpdated": "2024-12-25T00:00:00Z",
+    "location": "42.283274,116.497201",
+    "maxDistance": "10 Miles",
+    "pricing": [
+      {
+        "S": "Hourly"
+      }
+    ],
+    "status": "Active",
+    "tags": ["Fitness", "Education", "Healthcare"],
+    "title": "Smart Tutors"
+  },
+  {
+    "business_id": 67,
+    "acc_id": 57,
+    "address": "363 Broadway, City, State, 81393",
+    "datePosted": "2024-12-25T00:00:00Z",
+    "description": "Top-notch quality delivered with precision and care.",
+    "lastUpdated": "2024-12-25T00:00:00Z",
+    "location": "27.338289,3.554671",
+    "maxDistance": "10 Miles",
+    "pricing": [
+      {
+        "S": "Hourly"
+      }
+    ],
+    "status": "Paused",
+    "tags": ["Repair", "Consulting", "Cleaning"],
+    "title": "Fun Zone"
+  },
+  {
+    "business_id": 68,
+    "acc_id": 74,
+    "address": "546 Main St, City, State, 97741",
+    "datePosted": "2024-12-25T00:00:00Z",
+    "description": "Your satisfaction is our priority. Contact us for more details.",
+    "lastUpdated": "2024-12-25T00:00:00Z",
+    "location": "81.550580,161.320761",
+    "maxDistance": "25 Miles",
+    "pricing": [
+      {
+        "S": "Flexible"
+      }
+    ],
+    "status": "Active",
+    "tags": ["Consulting", "Education", "Retail"],
+    "title": "Healthy Living"
+  },
+  {
+    "business_id": 69,
+    "acc_id": 18,
+    "address": "498 Main St, City, State, 61495",
+    "datePosted": "2024-12-25T00:00:00Z",
+    "description": "Affordable and reliable services available near you.",
+    "lastUpdated": "2024-12-25T00:00:00Z",
+    "location": "-45.259725,-165.028707",
+    "maxDistance": "50 Miles",
+    "pricing": [
+      {
+        "S": "Hourly"
+      }
+    ],
+    "status": "Active",
+    "tags": ["Healthcare", "Cleaning", "Food"],
+    "title": "Quick Retail"
+  },
+  {
+    "business_id": 70,
+    "acc_id": 3,
+    "address": "917 Main St, City, State, 71622",
+    "datePosted": "2024-12-25T00:00:00Z",
+    "description": "Your satisfaction is our priority. Contact us for more details.",
+    "lastUpdated": "2024-12-25T00:00:00Z",
+    "location": "79.795576,31.645200",
+    "maxDistance": "50 Miles",
+    "pricing": [
+      {
+        "S": "Flexible"
+      }
+    ],
+    "status": "Paused",
+    "tags": ["Fitness", "Food", "Consulting"],
+    "title": "Care Plus"
+  },
+  {
+    "business_id": 71,
+    "acc_id": 73,
+    "address": "867 Broadway, City, State, 59730",
+    "datePosted": "2024-12-25T00:00:00Z",
+    "description": "We provide excellent services tailored to your needs.",
+    "lastUpdated": "2024-12-25T00:00:00Z",
+    "location": "57.070278,45.650334",
+    "maxDistance": "50 Miles",
+    "pricing": [
+      {
+        "S": "Strict"
+      }
+    ],
+    "status": "Active",
+    "tags": ["Retail", "Cleaning", "Education"],
+    "title": "Smart Tutors"
+  },
+  {
+    "business_id": 72,
+    "acc_id": 84,
+    "address": "233 Broadway, City, State, 36446",
+    "datePosted": "2024-12-25T00:00:00Z",
+    "description": "Top-notch quality delivered with precision and care.",
+    "lastUpdated": "2024-12-25T00:00:00Z",
+    "location": "63.392417,114.416325",
+    "maxDistance": "50 Miles",
+    "pricing": [
+      {
+        "S": "Strict"
+      }
+    ],
+    "status": "Paused",
+    "tags": ["Technology", "Retail", "Fitness"],
+    "title": "Tech Fix"
+  },
+  {
+    "business_id": 73,
+    "acc_id": 77,
+    "address": "235 Broadway, City, State, 90582",
+    "datePosted": "2024-12-25T00:00:00Z",
+    "description": "We provide excellent services tailored to your needs.",
+    "lastUpdated": "2024-12-25T00:00:00Z",
+    "location": "-44.153092,-161.057771",
+    "maxDistance": "25 Miles",
+    "pricing": [
+      {
+        "S": "Hourly"
+      }
+    ],
+    "status": "Deleted",
+    "tags": ["Healthcare", "Consulting", "Entertainment"],
+    "title": "Quick Retail"
+  },
+  {
+    "business_id": 74,
+    "acc_id": 83,
+    "address": "569 Park Ave, City, State, 76170",
+    "datePosted": "2024-12-25T00:00:00Z",
+    "description": "Innovative solutions for modern-day challenges.",
+    "lastUpdated": "2024-12-25T00:00:00Z",
+    "location": "-48.401278,-87.687377",
+    "maxDistance": "50 Miles",
+    "pricing": [
+      {
+        "S": "Flexible"
+      }
+    ],
+    "status": "Active",
+    "tags": ["Fitness", "Food", "Repair"],
+    "title": "Healthy Living"
+  },
+  {
+    "business_id": 75,
+    "acc_id": 80,
+    "address": "222 Main St, City, State, 82809",
+    "datePosted": "2024-12-25T00:00:00Z",
+    "description": "Affordable and reliable services available near you.",
+    "lastUpdated": "2024-12-25T00:00:00Z",
+    "location": "-79.361281,-131.286463",
+    "maxDistance": "10 Miles",
+    "pricing": [
+      {
+        "S": "Strict"
+      }
+    ],
+    "status": "Paused",
+    "tags": ["Fitness", "Retail", "Food"],
+    "title": "Care Plus"
+  },
+  {
+    "business_id": 76,
+    "acc_id": 34,
+    "address": "873 Broadway, City, State, 57636",
+    "datePosted": "2024-12-25T00:00:00Z",
+    "description": "Innovative solutions for modern-day challenges.",
+    "lastUpdated": "2024-12-25T00:00:00Z",
+    "location": "73.665544,-167.874279",
+    "maxDistance": "50 Miles",
+    "pricing": [
+      {
+        "S": "Hourly"
+      }
+    ],
+    "status": "Paused",
+    "tags": ["Entertainment", "Education", "Food"],
+    "title": "Sparkle Cleaners"
+  },
+  {
+    "business_id": 77,
+    "acc_id": 46,
+    "address": "893 Main St, City, State, 79656",
+    "datePosted": "2024-12-25T00:00:00Z",
+    "description": "Innovative solutions for modern-day challenges.",
+    "lastUpdated": "2024-12-25T00:00:00Z",
+    "location": "49.327732,-74.165061",
+    "maxDistance": "50 Miles",
+    "pricing": [
+      {
+        "S": "Flexible"
+      }
+    ],
+    "status": "Paused",
+    "tags": ["Consulting", "Food", "Entertainment"],
+    "title": "Fit Life"
+  },
+  {
+    "business_id": 78,
+    "acc_id": 67,
+    "address": "563 Main St, City, State, 60159",
+    "datePosted": "2024-12-25T00:00:00Z",
+    "description": "Affordable and reliable services available near you.",
+    "lastUpdated": "2024-12-25T00:00:00Z",
+    "location": "-70.479667,83.904497",
+    "maxDistance": "50 Miles",
+    "pricing": [
+      {
+        "S": "Flexible"
+      }
+    ],
+    "status": "Active",
+    "tags": ["Entertainment", "Education", "Healthcare"],
+    "title": "Smart Tutors"
+  },
+  {
+    "business_id": 79,
+    "acc_id": 74,
+    "address": "178 Broadway, City, State, 93554",
+    "datePosted": "2024-12-25T00:00:00Z",
+    "description": "Your satisfaction is our priority. Contact us for more details.",
+    "lastUpdated": "2024-12-25T00:00:00Z",
+    "location": "-49.113752,-115.852406",
+    "maxDistance": "10 Miles",
+    "pricing": [
+      {
+        "S": "Flexible"
+      }
+    ],
+    "status": "Deleted",
+    "tags": ["Food", "Cleaning", "Healthcare"],
+    "title": "Quick Retail"
+  },
+  {
+    "business_id": 80,
+    "acc_id": 87,
+    "address": "624 Elm St, City, State, 63055",
+    "datePosted": "2024-12-25T00:00:00Z",
+    "description": "We provide excellent services tailored to your needs.",
+    "lastUpdated": "2024-12-25T00:00:00Z",
+    "location": "46.811763,138.160100",
+    "maxDistance": "25 Miles",
+    "pricing": [
+      {
+        "S": "Hourly"
+      }
+    ],
+    "status": "Active",
+    "tags": ["Fitness", "Consulting", "Technology"],
+    "title": "Quick Retail"
+  },
+  {
+    "business_id": 81,
+    "acc_id": 53,
+    "address": "731 Elm St, City, State, 30921",
+    "datePosted": "2024-12-25T00:00:00Z",
+    "description": "Innovative solutions for modern-day challenges.",
+    "lastUpdated": "2024-12-25T00:00:00Z",
+    "location": "7.558509,90.220711",
+    "maxDistance": "25 Miles",
+    "pricing": [
+      {
+        "S": "Hourly"
+      }
+    ],
+    "status": "Deleted",
+    "tags": ["Fitness", "Technology", "Retail"],
+    "title": "Sparkle Cleaners"
+  },
+  {
+    "business_id": 82,
+    "acc_id": 94,
+    "address": "372 Main St, City, State, 29317",
+    "datePosted": "2024-12-25T00:00:00Z",
+    "description": "Affordable and reliable services available near you.",
+    "lastUpdated": "2024-12-25T00:00:00Z",
+    "location": "-59.418950,-125.889824",
+    "maxDistance": "50 Miles",
+    "pricing": [
+      {
+        "S": "Flexible"
+      }
+    ],
+    "status": "Paused",
+    "tags": ["Cleaning", "Healthcare", "Technology"],
+    "title": "Fit Life"
+  },
+  {
+    "business_id": 83,
+    "acc_id": 84,
+    "address": "310 Elm St, City, State, 93873",
+    "datePosted": "2024-12-25T00:00:00Z",
+    "description": "Top-notch quality delivered with precision and care.",
+    "lastUpdated": "2024-12-25T00:00:00Z",
+    "location": "-8.331417,-175.213609",
+    "maxDistance": "25 Miles",
+    "pricing": [
+      {
+        "S": "Flexible"
+      }
+    ],
+    "status": "Active",
+    "tags": ["Fitness", "Education", "Food"],
+    "title": "Smart Tutors"
+  },
+  {
+    "business_id": 84,
+    "acc_id": 54,
+    "address": "757 Broadway, City, State, 30130",
+    "datePosted": "2024-12-25T00:00:00Z",
+    "description": "Top-notch quality delivered with precision and care.",
+    "lastUpdated": "2024-12-25T00:00:00Z",
+    "location": "63.255464,114.040420",
+    "maxDistance": "10 Miles",
+    "pricing": [
+      {
+        "S": "Flexible"
+      }
+    ],
+    "status": "Active",
+    "tags": ["Fitness", "Consulting", "Technology"],
+    "title": "Fun Zone"
+  },
+  {
+    "business_id": 85,
+    "acc_id": 39,
+    "address": "494 Broadway, City, State, 91298",
+    "datePosted": "2024-12-25T00:00:00Z",
+    "description": "Your satisfaction is our priority. Contact us for more details.",
+    "lastUpdated": "2024-12-25T00:00:00Z",
+    "location": "-86.098893,120.557761",
+    "maxDistance": "25 Miles",
+    "pricing": [
+      {
+        "S": "Flexible"
+      }
+    ],
+    "status": "Active",
+    "tags": ["Education", "Consulting", "Entertainment"],
+    "title": "Care Plus"
+  },
+  {
+    "business_id": 86,
+    "acc_id": 88,
+    "address": "512 Main St, City, State, 24228",
+    "datePosted": "2024-12-25T00:00:00Z",
+    "description": "Innovative solutions for modern-day challenges.",
+    "lastUpdated": "2024-12-25T00:00:00Z",
+    "location": "21.055309,-37.775393",
+    "maxDistance": "10 Miles",
+    "pricing": [
+      {
+        "S": "Strict"
+      }
+    ],
+    "status": "Paused",
+    "tags": ["Entertainment", "Repair", "Education"],
+    "title": "Fit Life"
+  },
+  {
+    "business_id": 87,
+    "acc_id": 34,
+    "address": "83 Elm St, City, State, 19727",
+    "datePosted": "2024-12-25T00:00:00Z",
+    "description": "Top-notch quality delivered with precision and care.",
+    "lastUpdated": "2024-12-25T00:00:00Z",
+    "location": "19.814358,41.729196",
+    "maxDistance": "25 Miles",
+    "pricing": [
+      {
+        "S": "Hourly"
+      }
+    ],
+    "status": "Active",
+    "tags": ["Healthcare", "Technology", "Retail"],
+    "title": "Quick Retail"
+  },
+  {
+    "business_id": 88,
+    "acc_id": 98,
+    "address": "79 Park Ave, City, State, 60969",
+    "datePosted": "2024-12-25T00:00:00Z",
+    "description": "Your satisfaction is our priority. Contact us for more details.",
+    "lastUpdated": "2024-12-25T00:00:00Z",
+    "location": "36.170498,-137.184225",
+    "maxDistance": "50 Miles",
+    "pricing": [
+      {
+        "S": "Hourly"
+      }
+    ],
+    "status": "Deleted",
+    "tags": ["Education", "Technology", "Fitness"],
+    "title": "Quick Retail"
+  },
+  {
+    "business_id": 89,
+    "acc_id": 25,
+    "address": "143 Elm St, City, State, 41410",
+    "datePosted": "2024-12-25T00:00:00Z",
+    "description": "Innovative solutions for modern-day challenges.",
+    "lastUpdated": "2024-12-25T00:00:00Z",
+    "location": "-24.398189,-23.213318",
+    "maxDistance": "25 Miles",
+    "pricing": [
+      {
+        "S": "Strict"
+      }
+    ],
+    "status": "Active",
+    "tags": ["Repair", "Entertainment", "Fitness"],
+    "title": "Healthy Living"
+  },
+  {
+    "business_id": 90,
+    "acc_id": 58,
+    "address": "724 Park Ave, City, State, 96221",
+    "datePosted": "2024-12-25T00:00:00Z",
+    "description": "Top-notch quality delivered with precision and care.",
+    "lastUpdated": "2024-12-25T00:00:00Z",
+    "location": "-43.687787,-20.521859",
+    "maxDistance": "50 Miles",
+    "pricing": [
+      {
+        "S": "Flexible"
+      }
+    ],
+    "status": "Paused",
+    "tags": ["Education", "Healthcare", "Food"],
+    "title": "Fun Zone"
+  },
+  {
+    "business_id": 91,
+    "acc_id": 62,
+    "address": "177 Main St, City, State, 38255",
+    "datePosted": "2024-12-25T00:00:00Z",
+    "description": "Your satisfaction is our priority. Contact us for more details.",
+    "lastUpdated": "2024-12-25T00:00:00Z",
+    "location": "-82.074470,167.901426",
+    "maxDistance": "10 Miles",
+    "pricing": [
+      {
+        "S": "Flexible"
+      }
+    ],
+    "status": "Deleted",
+    "tags": ["Healthcare", "Education", "Repair"],
+    "title": "Gourmet Bites"
+  },
+  {
+    "business_id": 92,
+    "acc_id": 52,
+    "address": "891 Broadway, City, State, 82748",
+    "datePosted": "2024-12-25T00:00:00Z",
+    "description": "Top-notch quality delivered with precision and care.",
+    "lastUpdated": "2024-12-25T00:00:00Z",
+    "location": "-7.366867,1.312424",
+    "maxDistance": "25 Miles",
+    "pricing": [
+      {
+        "S": "Strict"
+      }
+    ],
+    "status": "Deleted",
+    "tags": ["Entertainment", "Retail", "Fitness"],
+    "title": "Quick Retail"
+  },
+  {
+    "business_id": 93,
+    "acc_id": 29,
+    "address": "622 Elm St, City, State, 47357",
+    "datePosted": "2024-12-25T00:00:00Z",
+    "description": "Innovative solutions for modern-day challenges.",
+    "lastUpdated": "2024-12-25T00:00:00Z",
+    "location": "35.570496,-22.836172",
+    "maxDistance": "25 Miles",
+    "pricing": [
+      {
+        "S": "Flexible"
+      }
+    ],
+    "status": "Deleted",
+    "tags": ["Education", "Healthcare", "Technology"],
+    "title": "Healthy Living"
+  },
+  {
+    "business_id": 94,
+    "acc_id": 91,
+    "address": "364 Elm St, City, State, 21549",
+    "datePosted": "2024-12-25T00:00:00Z",
+    "description": "Innovative solutions for modern-day challenges.",
+    "lastUpdated": "2024-12-25T00:00:00Z",
+    "location": "-84.828874,171.627065",
+    "maxDistance": "10 Miles",
+    "pricing": [
+      {
+        "S": "Hourly"
+      }
+    ],
+    "status": "Active",
+    "tags": ["Healthcare", "Entertainment", "Fitness"],
+    "title": "Expert Consulting"
+  },
+  {
+    "business_id": 95,
+    "acc_id": 6,
+    "address": "468 Main St, City, State, 53223",
+    "datePosted": "2024-12-25T00:00:00Z",
+    "description": "Top-notch quality delivered with precision and care.",
+    "lastUpdated": "2024-12-25T00:00:00Z",
+    "location": "-34.133863,59.901746",
+    "maxDistance": "50 Miles",
+    "pricing": [
+      {
+        "S": "Strict"
+      }
+    ],
+    "status": "Deleted",
+    "tags": ["Retail", "Education", "Cleaning"],
+    "title": "Care Plus"
+  },
+  {
+    "business_id": 96,
+    "acc_id": 13,
+    "address": "846 Park Ave, City, State, 16235",
+    "datePosted": "2024-12-25T00:00:00Z",
+    "description": "Top-notch quality delivered with precision and care.",
+    "lastUpdated": "2024-12-25T00:00:00Z",
+    "location": "5.808486,135.150593",
+    "maxDistance": "25 Miles",
+    "pricing": [
+      {
+        "S": "Strict"
+      }
+    ],
+    "status": "Deleted",
+    "tags": ["Cleaning", "Technology", "Fitness"],
+    "title": "Gourmet Bites"
+  },
+  {
+    "business_id": 97,
+    "acc_id": 81,
+    "address": "660 Broadway, City, State, 53911",
+    "datePosted": "2024-12-25T00:00:00Z",
+    "description": "Affordable and reliable services available near you.",
+    "lastUpdated": "2024-12-25T00:00:00Z",
+    "location": "30.379098,93.485076",
+    "maxDistance": "10 Miles",
+    "pricing": [
+      {
+        "S": "Flexible"
+      }
+    ],
+    "status": "Active",
+    "tags": ["Entertainment", "Retail", "Repair"],
+    "title": "Expert Consulting"
+  },
+  {
+    "business_id": 98,
+    "acc_id": 39,
+    "address": "263 Main St, City, State, 87225",
+    "datePosted": "2024-12-25T00:00:00Z",
+    "description": "Affordable and reliable services available near you.",
+    "lastUpdated": "2024-12-25T00:00:00Z",
+    "location": "-64.305922,99.278409",
+    "maxDistance": "10 Miles",
+    "pricing": [
+      {
+        "S": "Flexible"
+      }
+    ],
+    "status": "Active",
+    "tags": ["Technology", "Retail", "Food"],
+    "title": "Smart Tutors"
+  },
+  {
+    "business_id": 99,
+    "acc_id": 31,
+    "address": "615 Broadway, City, State, 54656",
+    "datePosted": "2024-12-25T00:00:00Z",
+    "description": "Top-notch quality delivered with precision and care.",
+    "lastUpdated": "2024-12-25T00:00:00Z",
+    "location": "-0.237950,-90.014004",
+    "maxDistance": "25 Miles",
+    "pricing": [
+      {
+        "S": "Strict"
+      }
+    ],
+    "status": "Active",
+    "tags": ["Healthcare", "Entertainment", "Retail"],
+    "title": "Quick Retail"
+  },
+  {
+    "business_id": 100,
+    "acc_id": 50,
+    "address": "613 Park Ave, City, State, 95564",
+    "datePosted": "2024-12-25T00:00:00Z",
+    "description": "Top-notch quality delivered with precision and care.",
+    "lastUpdated": "2024-12-25T00:00:00Z",
+    "location": "15.297398,62.843931",
+    "maxDistance": "50 Miles",
+    "pricing": [
+      {
+        "S": "Flexible"
+      }
+    ],
+    "status": "Paused",
+    "tags": ["Healthcare", "Education", "Technology"],
+    "title": "Gourmet Bites"
+  },
+  {
+    "business_id": 101,
+    "acc_id": 2,
+    "address": "851 Park Ave, City, State, 24758",
+    "datePosted": "2024-12-25T00:00:00Z",
+    "description": "Innovative solutions for modern-day challenges.",
+    "lastUpdated": "2024-12-25T00:00:00Z",
+    "location": "-62.786838,-61.705151",
+    "maxDistance": "50 Miles",
+    "pricing": [
+      {
+        "S": "Hourly"
+      }
+    ],
+    "status": "Paused",
+    "tags": ["Repair", "Food", "Retail"],
+    "title": "Quick Retail"
+  },
+  {
+    "business_id": 102,
+    "acc_id": 99,
+    "address": "727 Broadway, City, State, 50879",
+    "datePosted": "2024-12-25T00:00:00Z",
+    "description": "Top-notch quality delivered with precision and care.",
+    "lastUpdated": "2024-12-25T00:00:00Z",
+    "location": "-82.229359,-131.962951",
+    "maxDistance": "25 Miles",
+    "pricing": [
+      {
+        "S": "Hourly"
+      }
+    ],
+    "status": "Paused",
+    "tags": ["Food", "Cleaning", "Technology"],
+    "title": "Expert Consulting"
+  },
+  {
+    "business_id": 103,
+    "acc_id": 38,
+    "address": "97 Park Ave, City, State, 74331",
+    "datePosted": "2024-12-25T00:00:00Z",
+    "description": "Affordable and reliable services available near you.",
+    "lastUpdated": "2024-12-25T00:00:00Z",
+    "location": "-61.264650,112.573694",
+    "maxDistance": "25 Miles",
+    "pricing": [
+      {
+        "S": "Hourly"
+      }
+    ],
+    "status": "Active",
+    "tags": ["Healthcare", "Repair", "Food"],
+    "title": "Quick Retail"
+  },
+  {
+    "business_id": 104,
+    "acc_id": 46,
+    "address": "456 Main St, City, State, 68884",
+    "datePosted": "2024-12-25T00:00:00Z",
+    "description": "Top-notch quality delivered with precision and care.",
+    "lastUpdated": "2024-12-25T00:00:00Z",
+    "location": "-14.904983,-106.267278",
+    "maxDistance": "25 Miles",
+    "pricing": [
+      {
+        "S": "Strict"
+      }
+    ],
+    "status": "Active",
+    "tags": ["Education", "Healthcare", "Retail"],
+    "title": "Care Plus"
+  },
+  {
+    "business_id": 105,
+    "acc_id": 70,
+    "address": "439 Main St, City, State, 22768",
+    "datePosted": "2024-12-25T00:00:00Z",
+    "description": "Affordable and reliable services available near you.",
+    "lastUpdated": "2024-12-25T00:00:00Z",
+    "location": "-64.257251,7.152714",
+    "maxDistance": "50 Miles",
+    "pricing": [
+      {
+        "S": "Hourly"
+      }
+    ],
+    "status": "Deleted",
+    "tags": ["Education", "Retail", "Consulting"],
+    "title": "Tech Fix"
+  }
+]

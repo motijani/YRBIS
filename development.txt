@@ -1,0 +1,15 @@
+#TO DO
+LATER 
+"NewlyCreated"; boolean variable in user database, to determine if to go to find search page or get started page
+
+Issue: Neatness
+Verify email and password meet requirements before processing sign up
+Verify email is inputted before processing log in
+Set username character limits to {idk prolly like 15} on creation
+
+PRIO:
+add a way for image upload
+prevent spam of apis
+
+
+ 

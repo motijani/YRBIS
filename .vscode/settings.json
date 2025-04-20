@@ -1,0 +1,9 @@
+{
+  "cmake.configureOnOpen": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "java.configuration.updateBuildConfiguration": "interactive",
+  "CodeGPT.apiKey": "CodeGPT Plus Beta"
+}
